@@ -1,0 +1,21 @@
+{
+    "name": "My log tracker",
+    "logs": [
+        {
+            "date": "03/27/2020",
+            "current": true,
+            "initInvested": 420000,
+            "currValue": 4000000,
+            "name": "Google",
+            "sector": "Technology"
+        },
+        {
+            "date": "10/21/1996",
+            "current": false,
+            "initInvested": 500000,
+            "currValue": 300000,
+            "name": "Boeing",
+            "sector": "Utilities"
+        }
+    ]
+}
