@@ -1,11 +1,4 @@
 {
     "name": "Logs list",
-    "logs": [{
-        "date": "22/22/2222",
-        "current": true,
-        "initInvested": 2,
-        "currValue": 2,
-        "name": "Kumon",
-        "sector": "Education"
-    }]
+    "logs": []
 }

@@ -9,6 +9,13 @@
             "name": "InvestmentLogTracker",
             "request": "launch",
             "mainClass": "ui.InvestmentLogTracker",
+            "projectName": "cpsc210-investment-log-tracker_9178c66b"
+        },
+        {
+            "type": "java",
+            "name": "InvestmentLogTracker",
+            "request": "launch",
+            "mainClass": "ui.InvestmentLogTracker",
             "projectName": "project-p6x0k_d6931cdb"
         },
         {

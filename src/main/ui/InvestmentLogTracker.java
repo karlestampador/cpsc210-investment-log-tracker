@@ -40,16 +40,6 @@ public class InvestmentLogTracker extends JPanel implements ActionListener {
     private boolean isCurrentValid;
     private boolean consoleOn;
 
-    private String name;
-    private Boolean current;
-    private String sector;
-    private String initYear;
-    private String initMonth;
-    private String initDay;
-    private String date;
-    private int initInvested;
-    private int currValue;
-
     private static final String JSON_STORE = "./data/logtracker.json";
     private JsonReader jsonReader;
     private JsonWriter jsonWriter;
